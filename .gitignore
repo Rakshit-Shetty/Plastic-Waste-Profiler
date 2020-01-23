@@ -1,0 +1,9 @@
+cnn_keras/*
+dataset/dataset-resized/*
+ref/*
+venv/*
+*.pyc
+draft/*
+inception/*
+.git
+dataset/predicted/*
